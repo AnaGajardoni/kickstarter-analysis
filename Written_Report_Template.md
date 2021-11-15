@@ -6,7 +6,7 @@ This project aims to analyse data from Kickstarters taking into account Goals, P
 ### Purpose
 The purpose of this project is to find out how viable it is to have/start a funding for a theater/play that needs $12,000. Based on data gathered at Kickstarter funding, the idea is to filter searching for patterns that could indicate the success of a funding.
 
-
+xxx
 
 ## Analysis and Challenges
 
