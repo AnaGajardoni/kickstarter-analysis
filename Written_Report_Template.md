@@ -19,7 +19,7 @@ On a first analysis, the focus was to understand how relevant Launch Date was to
 
 When examining the chart based on the table created, we can clearly see that May is the most promising month to launch a funding campaign like this. Not only does it have the most successful campaigns, but it is also in May that lies the biggest gap between successful and failed/canceled projects.
 
-![](https://github.com/AnaGajardoni/kickstarter-analysis/tree/main/resources/Theater_Outcomes_vs_Launch.png)
+![](https://github.com/AnaGajardoni/kickstarter-analysis/resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 The analysis based on goals, on the other hand, focused on the most successful intervals for goals. The outcomes were split in the following intervals
@@ -47,7 +47,8 @@ We tend to think that the smallest goals would be the most successful, but the d
 2. Throughout the year, fundings for theater tend to be more successful than fail, however, in December the chances of failure and success are just the same, making December a risky choice to start a campaign.
 
 - What can you conclude about the Outcomes based on Goals?
-As mentioned above, the Outcome based on Goals shows that the amount being smaller does not necessarily guarantee a successful outcome given that the most successful ranges are from 25000 to 29999 and 30000 tp 34999. There is one range that is 100%, but there is just one funding in that range making it not a very good example of success given we do not have a good mass of data to work with.
+
+As mentioned above in the analysis, the Outcome based on Goals shows that the amount being smaller does not necessarily guarantee a successful outcome given that the most successful ranges are from 25000 to 29999 and 30000 to 34999. There is one range that is 100%, but there is just one funding in that range making it not a very good example of success given we do not have a good mass of data to work with.
 
 - What are some limitations of this dataset?
 
