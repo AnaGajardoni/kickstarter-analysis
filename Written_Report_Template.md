@@ -40,6 +40,8 @@ For this approach, we created a table by grouping (counting) the outcomes accord
 
 We tend to think that the smallest goals would be the most successful, but the data proves us wrong. Up to the 14999 window, less than 50% of the fundraisers were successful. Between 25000 and 35000, the success rate varies from 70% to 80%, which is fairly good.
 
+![Outcomes_based_on_Goals](/resources/Outcomes_vs_Goals.png)
+
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
