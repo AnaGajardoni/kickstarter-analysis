@@ -45,17 +45,19 @@ We tend to think that the smallest goals would be the most successful, but the d
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
-1. The best month to start a fundraising would be clearly May. 
-2. Throughout the year, fundings for theater tend to be more successful than fail, however, in December the chances of failure and success are just the same, making December a risky choice to start a campaign.
+  1. The best month to start a fundraising would be clearly May. 
+  2. Throughout the year, fundings for theater tend to be more successful than fail, however, in December the chances of failure and success are just the same, making December a risky choice to start a campaign.
 
 - What can you conclude about the Outcomes based on Goals?
 
   As mentioned above in the analysis, the Outcome based on Goals shows that the amount being smaller does not necessarily guarantee a successful outcome given that the most successful ranges are from 25000 to 29999 and 30000 to 34999. There is one range that is 100%, but there is just one funding in that range making it not a very good example of success given we do not have a good mass of data to work with.
 
 - What are some limitations of this dataset?
+
   No limitations in this dataset, however, I believe that having a larger set to analyse would give us more precise results.
 
 - What are some other possible tables and/or graphs that we could create?
+
   I would try to "play" with the data in a fashion that it would list the line for each year without grouping as in the chart below. It might explain May as the apparent best launch date, but it shows clearly that the data is mainly from 2014 to 2016, the other years contributing very little. It might be interesting to understand if there is any external variable that made these three years so prosperous in terms of funding.
 
 ![Outcomes_based_on_Goals](/resources/Theater_Outcomes_vs_Launch_by_Year.png)
