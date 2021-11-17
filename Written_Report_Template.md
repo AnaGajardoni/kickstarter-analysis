@@ -19,7 +19,7 @@ On a first analysis, the focus was to understand how relevant Launch Date was to
 
 When examining the chart based on the table created, we can clearly see that May is the most promising month to launch a funding campaign like this. Not only does it have the most successful campaigns, but it is also in May that lies the biggest gap between successful and failed/canceled projects.
 
-![](https://github.com/AnaGajardoni/kickstarter-analysis/resources/Theater_Outcomes_vs_Launch.png)
+![Outcomes_by_Launch_Date](/resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 The analysis based on goals, on the other hand, focused on the most successful intervals for goals. The outcomes were split in the following intervals
