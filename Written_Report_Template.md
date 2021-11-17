@@ -21,10 +21,10 @@ When examining the chart based on the table created, we can clearly see that May
 
 ### Analysis of Outcomes Based on Goals
 The analysis based on goals, on the other hand, focused on the most successful intervals for goals. The outcomes were split in the following intervals
- * less than 1000
- * greater than 1000 and less than 4999
- * greater than 5000 and less than 9999
- * greater than 10000 and less than 14999
+ * less than 1000 (<=1000)
+ * greater than 1000 and less than 4999 (>=1000 and <4999)
+ * greater than 5000 and less than 9999 (>=5000 and <9999)
+ * greater than 10000 and less than 14999 (>=10000 and <14999)
  * greater than 15000 and less than 19999
  * greater than 20000 and less than 24999
  * greater than 25000 and less than 29999
