@@ -22,31 +22,30 @@ When examining the chart based on the table created, we can clearly see that May
 ### Analysis of Outcomes Based on Goals
 The analysis based on goals, on the other hand, focused on the most successful intervals for goals. The outcomes were split in the following intervals
  * less than 1000 (<=1000)
- * greater than 1000 and less than 4999 (>=1000 and <4999)
- * greater than 5000 and less than 9999 (>=5000 and <9999)
- * greater than 10000 and less than 14999 (>=10000 and <14999)
- * greater than 15000 and less than 19999 (>=15000 and <19999)
- * greater than 20000 and less than 24999 (>=20000 and <24999)
- * greater than 25000 and less than 29999 (>=25000 and <29999)
- * greater than 30000 and less than 34999 (>=30000 and <34999)
- * greater than 35000 and less than 39999 (>=35000 and <39999)
- * greater than 40000 and less than 44999 (>=40000 and <44999)
- * greater than 45000 and less than 49999 (>=45000 and <49999)
- * greater than 50000 (>=50000)
+ * greater or equal than 1000 and less than 4999 (>=1000 and <4999)
+ * greater or equal than 5000 and less than 9999 (>=5000 and <9999)
+ * greater or equal than 10000 and less than 14999 (>=10000 and <14999)
+ * greater or equal than 15000 and less than 19999 (>=15000 and <19999)
+ * greater or equal than 20000 and less than 24999 (>=20000 and <24999)
+ * greater or equal than 25000 and less than 29999 (>=25000 and <29999)
+ * greater or equal than 30000 and less than 34999 (>=30000 and <34999)
+ * greater or equal than 35000 and less than 39999 (>=35000 and <39999)
+ * greater or equal than 40000 and less than 44999 (>=40000 and <44999)
+ * greater or equal than 45000 and less than 49999 (>=45000 and <49999)
+ * greater or equal than 50000 (>=50000)
 
+For this approach, we created a table by grouping (counting) the outcomes according to the goal range they first aimed. 
 
-### Challenges and Difficulties Encountered
+We tend to think that the smallest goals would be the most successful, but the data proves us wrong. Up to the 14999 window, less than 50% of the fundraisers were successful. Between 25000 and 35000, the success rate varies from 70% to 80%, which is fairly good.
 
 ## Results
 
-
-
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
-The biggest challenge is the mass of data itself - that is not large enough to really make a good conclusion. 
-
-The data was filtered so as to show the spread of outcomes (successful, failed and canceled) throughout a calendar year covering all the data available (from 2009 to 2017) only for the category of interest. The chart below shows clearly that the best month to lauch a campaign is May - but not only that - May is also the month in which the gap between successful projects and failed or canceled ones is the biggest.
+1. The best month to start a fundraising would be clearly May. 
+2. Throughout the year, fundings for theater tend to be more successful than fail, however, in December the chances of failure and success are just the same, making December a risky choice to start a campaign.
 
 - What can you conclude about the Outcomes based on Goals?
+As mentioned above, the Outcome based on Goals shows that the amount being smaller does not necessarily guarantee a successful outcome given that the most successful ranges are from 25000 to 29999 and 30000 tp 34999. There is one range that is 100%, but there is just one funding in that range making it not a very good example of success given we do not have a good mass of data to work with.
 
 - What are some limitations of this dataset?
 
