@@ -25,14 +25,14 @@ The analysis based on goals, on the other hand, focused on the most successful i
  * greater than 1000 and less than 4999 (>=1000 and <4999)
  * greater than 5000 and less than 9999 (>=5000 and <9999)
  * greater than 10000 and less than 14999 (>=10000 and <14999)
- * greater than 15000 and less than 19999
- * greater than 20000 and less than 24999
- * greater than 25000 and less than 29999
- * greater than 30000 and less than 34999
- * greater than 35000 and less than 39999
- * greater than 40000 and less than 44999
- * greater than 45000 and less than 49999
- * greater than 50000
+ * greater than 15000 and less than 19999 (>=15000 and <19999)
+ * greater than 20000 and less than 24999 (>=20000 and <24999)
+ * greater than 25000 and less than 29999 (>=25000 and <29999)
+ * greater than 30000 and less than 34999 (>=30000 and <34999)
+ * greater than 35000 and less than 39999 (>=35000 and <39999)
+ * greater than 40000 and less than 44999 (>=40000 and <44999)
+ * greater than 45000 and less than 49999 (>=45000 and <49999)
+ * greater than 50000 (>=50000)
 
 
 ### Challenges and Difficulties Encountered
